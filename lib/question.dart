@@ -8,7 +8,7 @@ class Question extends StatelessWidget {
     // TODO: implement build
     return Text(
       questioncontext,
-      style: TextStyle(fontSize: 28),
+      style: TextStyle(fontSize: 24),
       textAlign: TextAlign.center,
     );
   }
